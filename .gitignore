@@ -55,3 +55,11 @@ target/
 
 # Data
 *.npy
+
+*.jpg
+*.mov
+*.mp4
+*.pdf
+*.png
+*.jpeg
+*.txt
