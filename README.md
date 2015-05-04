@@ -14,6 +14,8 @@ installed in your system in case you want to use them:
 * Scipy
 * Matplotlib
 
+Some routines make use of synthesis codes that I have in my repository. Check [this](https://github.com/aasensio/lte) and [this](https://github.com/aasensio/milne) repos.
+
 ## Data
 We will be using some observations during the lectures. You can [download](https://www.dropbox.com/sh/ukawbdb7w75g5u0/AAA1I-xwr_-mVZ_5mE50a32Na?dl=0) them before
 the lectures so that we can all play together with them. The data is in numpy binary format and also in fits format.
