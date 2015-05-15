@@ -20,6 +20,20 @@ Some routines make use of synthesis codes that I have in my repository. Check [t
 We will be using some observations during the lectures. You can [download](https://www.dropbox.com/sh/ukawbdb7w75g5u0/AAA1I-xwr_-mVZ_5mE50a32Na?dl=0) them before
 the lectures so that we can all play together with them. The data is in numpy binary format and also in fits format.
 
+## IPython Notebooks
+During the lectures, I will show some practical results using IPython Notebooks. Github currently renders them
+by clicking on the link. However, here are the links to the them:
+
+* [Asymmetries](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Asymmetries.ipynb)
+* [Atomic parameters](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Atomic%20parameters.ipynb)
+* [Empire Strikes Back Priors](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Empire%20Strikes%20Back%20Priors.ipynb)
+* [Linear Fit](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Linear%20Fit.ipynb)
+* [Principal Component Analysis](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/PCA.ipynb)
+* [Python tools](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Python%20tools.ipynb)
+* [Simple diagnostics](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Simple%20diagnostics.ipynb)
+* [Stray-light](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Stray-light.ipynb)
+* [Weak-field approximation](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Weak%20field%20approximation.ipynb)
+
 ## Outline
 
 ### Lecture 1 - Introduction
