@@ -47,7 +47,15 @@ by clicking on the link. However, here are the links to the them:
 * Zeeman vs. Paschen-Back
 * Azimuth disambiguation
 
-### Lecture 2 - Simplified diagnostics
+### Lecture 2 - Model fitting
+* The four rules
+* Generative models
+* Likelihood functions
+* Priors
+* Nuisance parameters
+* Outliers
+
+### Lecture 3 - Simplified diagnostics
 * Simplified diagnostics
 * Weak-field approximation
 * Strong-field approximation
@@ -55,14 +63,6 @@ by clicking on the link. However, here are the links to the them:
 * Bisector and center-of-gravity techniques
 * Unresolved fields
 * Asymmetries
-
-### Lecture 3 - Model fitting
-* The four rules
-* Generative models
-* Likelihood functions
-* Priors
-* Nuisance parameters
-* Outliers
 
 ### Lecture 4 - Nonlinear inversions
 * Maximum-likelihood simple solution

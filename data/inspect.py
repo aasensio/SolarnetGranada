@@ -9,8 +9,8 @@ class inspector(object):
 				
 		"""
 		pl.close('all')
-		self.mapsFig, self.axMaps = pl.subplots(nrows=2, ncols=2, figsize=(12,12))
-		self.stokesFig, self.axStokes = pl.subplots(nrows=4, ncols=1, figsize=(12,12))
+		self.mapsFig, self.axMaps = pl.subplots(nrows=2, ncols=2, figsize=(8,8))
+		self.stokesFig, self.axStokes = pl.subplots(nrows=4, ncols=1, figsize=(8,8))
 		self.xdata = 0
 		self.ydata = 0
 
