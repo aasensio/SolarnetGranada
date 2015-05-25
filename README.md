@@ -4,7 +4,7 @@
 These repository contains the slides and codes that are part of the lecture.
 
 ## Slides
-The slides are provided in Powerpoint format. The final version will be transformed to pdf.
+The slides are provided in Powerpoint format.
 
 ## Codes
 All programs are coded in Python. They need the following dependencies so you need to have them
@@ -33,6 +33,14 @@ by clicking on the link. However, here are the links to the them:
 * [Simple diagnostics](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Simple%20diagnostics.ipynb)
 * [Stray-light](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Stray-light.ipynb)
 * [Weak-field approximation](http://nbviewer.ipython.org/github/aasensio/SolarnetGranada/blob/master/notebooks/Weak%20field%20approximation.ipynb)
+
+## Useful tools
+During the lectures, I will show some practical results using a few Python and online tools. You can download or
+visit them on:
+
+* [pymilne](https://github.com/aasensio/milne) Milne-Eddington synthesis code (Python)
+* [pylte](https://github.com/aasensio/lte) Synthesis code for atmospheres in local thermodynamic equilibrium (Python)
+* [Online inversion codes](http://www.iac.es/proyecto/inversion/online/online_tools.php) Online versions of Hazel, Milne-Eddington and Nicole
 
 ## Outline
 
